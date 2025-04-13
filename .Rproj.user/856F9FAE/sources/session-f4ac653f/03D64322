@@ -1,0 +1,26 @@
+{
+    "id": "03D64322",
+    "path": "~/amc6xa/comp_bio_a08/interval_basics/chip_seq_analysis.Rmd",
+    "project_path": "chip_seq_analysis.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1744502385242.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "53,5",
+        "scrollLine": "52"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744502443,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744502443527,
+    "read_only": false,
+    "read_only_alternatives": []
+}
